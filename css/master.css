@@ -1,0 +1,64 @@
+body{
+
+	color:black;
+    font-family: 'B612 Mono', monospace;
+	font-size: 16px;
+    text-align: center;
+}
+
+
+
+nav ul li {
+float: left;
+padding :50px;
+font-size: 20px;
+	line-height: 26px;
+	text-align: center;
+	margin-right: 30px;
+}
+a {
+	text-decoration: none; 
+}
+nav ul li a{
+	float: left;
+
+	font-size: 20px;
+	line-height: 26px;
+	text-align: center;
+	color: black;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table; 
+}
+
+.clearfix:after {
+clear: both;}
+
+#topsection {
+	
+	background-image: url(../images/cartoon.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#topsection h1 {
+	
+	font-size:60px;
+	margin-top: 50px;
+	padding-top: 200px;
+	color: white;
+	font-weight: bold;
+}
+
+#topsection p {
+	padding-top: 60px;
+	padding-bottom: 1000px;
+}
+
+#topsection p a{
+	padding-top: 200px;
+	color: white;
+}

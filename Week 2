@@ -1,0 +1,19 @@
+<sup> - The <sup> tag defines superscript text. Superscript text appears half a character above 
+the normal line, and is sometimes rendered in a smaller font. Superscript text can be used 
+for footnotes, like WWW. Tip: Use the <sub> tag to define subscript text.
+<sub> - The <sub> tag defines subscript text. Subscript text appears half a character below the 
+normal line, and is sometimes rendered in a smaller font. Subscript text can be used for chemical 
+formulas, like H2O. Tip: Use the <sup> tag to define superscripted text.
+<hr> - the <hr> tag represents a horizontal rule. However, the <hr> tag may still be displayed 
+as a horizontal rule in visual browsers, but is now defined in semantic terms, rather than 
+presentational terms. All the layout attributes are removed in HTML5.
+<br> - The HTML <br> element produces a line break in text (carriage-return). 
+It is useful for writing a poem or an address, where the division of lines is significant.
+<blackquote> - The blockquote element is an HTML tag pair that is used to define long quotations. ... 
+The blockquote element represents a section that is quoted from another source.
+<q> - The <q> element is used to identify and inline quote that does not require paragraph breaks. 
+Longer quotations that do require paragraph breaks should use the <blockquote> element.
+<small> - The HTML <small> element makes the text font size one size smaller (for example, 
+from large to medium, or from small to x-small) down to the browser's minimum font size.
+<cite> - The <cite> tag defines the title of a work (e.g. a book, a song, a movie, a TV show, 
+a painting, a sculpture, etc.). Note: A person's name is not the title of a work.
